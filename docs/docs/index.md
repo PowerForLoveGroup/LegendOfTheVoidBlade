@@ -7,6 +7,6 @@
 《无刃传说》是一款（~）  
 关键词：3D，RPG，魂系，二次元，异世界。
 
-## 使用的工具ToolsUsed
+## 使用的工具
 * [Unreal Engine](https://www.unrealengine.com/)
 * [Blender](https://www.blender.org/)
