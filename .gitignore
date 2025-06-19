@@ -75,3 +75,9 @@ DerivedDataCache/*
 
 # Mac specific files
 .DS_Store
+
+# Python Virtual Environment
+venv/
+
+# MkDocs
+site/
