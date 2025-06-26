@@ -1,5 +1,5 @@
 # Makefile for MkDocs project
-# MkDocs项目自动化部署Makefile, 2025.06.20, Deepseek.
+# MkDocs项目自动化部署Makefile, Deepseek, 2025-06-20.
 
 # Variables
 VENV = venv
