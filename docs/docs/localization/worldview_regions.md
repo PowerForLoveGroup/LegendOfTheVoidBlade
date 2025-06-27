@@ -19,9 +19,3 @@
 | 浴火桥 | Pyrebath Bridge |
 | 阿勒罗 | Alero |
 | 深渊 | Abyss |
-
-# 其他
-
-| 中文 | 英文 |
-| --- | --- |
-| 硬化症 | Scleroderma |

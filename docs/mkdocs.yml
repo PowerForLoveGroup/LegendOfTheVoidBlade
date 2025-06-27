@@ -3,10 +3,29 @@ theme: readthedocs
 nav:
   - 主页: index.md
   - 团队: team.md
-  - 世界观规划: worldview_planning.md
-  - 剧情: plot.md
-  - 剧本和演出: script_and_performances.md
-  - 玩法及数值设计: gameplay_and_numerical_design.md
-  - 艺术设计: art_design.md
-  - 音频设计: audio_design.md
-  - 本地化: localization.md
+  - 世界观规划与设计:
+    - 世界观要素: worldview_planning/factors.md
+    - 世界观地域: worldview_planning/regions.md
+    - 世界观元素: worldview_planning/elements.md
+  - 剧情:
+    - 序章：跃: plot/prologue.md
+    - 第一章：初始之境·血色荒芜: plot/chapter_1.md
+  - 剧本和演出:
+    - 格式介绍: script_and_performances/format.md
+    - 序章：跃: script_and_performances/prologue.md
+  - 玩法及数值设计:
+    - 元素制衡: gameplay_and_numerical_design/elements.md
+    - 战斗键位: gameplay_and_numerical_design/controls.md
+    - 属性系统: gameplay_and_numerical_design/attributes.md
+    - 天赋系统: gameplay_and_numerical_design/talents.md
+  - 美术设计:
+    - 角色: art_design/characters.md
+    - 武器: art_design/weapons.md
+    - 场景: art_design/scenes.md
+    - UI/UX: art_design/uiux.md
+  - 音频设计:
+    - 音乐: audio_design/music.md
+    - 音效: audio_design/sounds.md
+  - 本地化:
+    - 世界观地域: localization/worldview_regions.md
+    - 其他: localization/others.md
